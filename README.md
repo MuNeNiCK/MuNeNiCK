@@ -1,19 +1,36 @@
 # Hi there, I'm MuNeNiCK
 
-Software Engineer based in Tokyo, Japan.
+Based in Tokyo. Infrastructure, cloud, and open-source.
 
-Working at [@mNi-Cloud](https://github.com/mNi-Cloud) and [@refmdio](https://github.com/refmdio).
+### Featured
 
-## Tech Stack
+**[RefMD](https://github.com/refmdio/refmd)** — End-to-end encrypted collaborative Markdown editor with real-time sync, plugin system, and offline support. Built with Elixir/Phoenix and SolidJS.
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+### Libraries
 
-## GitHub Stats
+**[prosemirror-codemirror-sync](https://github.com/MuNeNICK/prosemirror-codemirror-sync)** — Bidirectional document and cursor sync between ProseMirror and CodeMirror, with Yjs collaborative cursor support.
+
+**[omni-ui](https://github.com/MuNeNICK/omni-ui)** — Glassmorphism-inspired shadcn/ui fork with React and Solid support.
+
+**[solid-mosaic](https://github.com/MuNeNICK/solid-mosaic)** — SolidJS tiling window manager, ported from react-mosaic.
+
+### Tools
+
+**[docker-vm-runner](https://github.com/MuNeNICK/docker-vm-runner)** — Run QEMU/KVM virtual machines in Docker with console, SSH, and Redfish support.
+
+**[os-iso-catalog](https://github.com/MuNeNICK/os-iso-catalog)** — Machine-readable catalog of OS ISO images with download URLs, checksums, and EOL dates.
+
+**[hypr-rdp](https://github.com/MuNeNICK/hypr-rdp)** — Native RDP server for Hyprland with H.264/EGFX, PipeWire audio, and clipboard sync.
+
+**[nvim-wasm](https://github.com/MuNeNICK/nvim-wasm)** — Build wrapper that produces a WebAssembly (WASI) binary of Neovim without modifying upstream.
+
+### Kubernetes
+
+**[kubewol](https://github.com/MuNeNICK/kubewol)** — Wake-on-LAN for Kubernetes. eBPF detects TCP SYN / UDP first packets and wakes scaled-to-zero workloads.
+
+**[setup-k8s](https://github.com/MuNeNICK/setup-k8s)** — Single-command Kubernetes cluster setup with distro auto-detection and HA support.
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuNeNICK&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
@@ -21,10 +38,10 @@ Working at [@mNi-Cloud](https://github.com/mNi-Cloud) and [@refmdio](https://git
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuNeNICK&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MuNeNICK&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## Links
+### Links
 
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://www.munenick.me)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nick_mune0127)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=nextdotjs&logoColor=white)](https://www.munenick.me)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/nick_mune0127)
