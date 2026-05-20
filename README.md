@@ -33,8 +33,8 @@ Based in Tokyo. Infrastructure, cloud, and open-source.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuNeNICK&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuNeNICK&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuNeNICK&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuNeNICK&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
