@@ -2,6 +2,12 @@
 
 Based in Tokyo. Infrastructure, cloud, and open-source.
 
+### Tech Stack & Interests
+
+- **Languages:** Elixir, Rust, Go
+- **Infrastructure:** Kubernetes (k8s), containers
+- **Interests:** eBPF, cloud-native systems, and infrastructure tooling
+
 ### Featured
 
 **[RefMD](https://github.com/refmdio/refmd)** — End-to-end encrypted collaborative Markdown editor with real-time sync, plugin system, and offline support. Built with Elixir/Phoenix and SolidJS.
