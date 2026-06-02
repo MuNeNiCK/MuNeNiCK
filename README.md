@@ -6,7 +6,7 @@ Based in Tokyo. Infrastructure, cloud, and open-source.
 
 - **Languages:** Elixir, Rust, Go
 - **Infrastructure:** Kubernetes (k8s), containers
-- **Interests:** eBPF, cloud-native systems, and infrastructure tooling
+- **Interests:** eBPF, low-level systems, RISC-V, cloud-native systems, and infrastructure tooling
 
 ### Featured
 
