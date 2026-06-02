@@ -12,6 +12,8 @@ Based in Tokyo. Infrastructure, cloud, and open-source.
 
 **[RefMD](https://github.com/refmdio/refmd)** — End-to-end encrypted collaborative Markdown editor with real-time sync, plugin system, and offline support. Built with Elixir/Phoenix and SolidJS.
 
+**[Tidemark](https://github.com/tidemarksh/kernel)** — Browser-hosted RISC-V Linux userland for WebAssembly workers, with filesystem state, process orchestration, terminal I/O, and host-controlled network bridges.
+
 ### Libraries
 
 **[prosemirror-codemirror-sync](https://github.com/MuNeNICK/prosemirror-codemirror-sync)** — Bidirectional document and cursor sync between ProseMirror and CodeMirror, with Yjs collaborative cursor support.
