@@ -20,11 +20,15 @@ Based in Tokyo. Infrastructure, cloud, and open-source.
 
 **[omni-ui](https://github.com/MuNeNICK/omni-ui)** — Glassmorphism-inspired shadcn/ui fork with React and Solid support.
 
+**[console-ui](https://github.com/MuNeNICK/console-ui)** — Neutral product UI shadcn/ui fork with React and Solid support.
+
 **[solid-mosaic](https://github.com/MuNeNICK/solid-mosaic)** — SolidJS tiling window manager, ported from react-mosaic.
 
 ### Tools
 
 **[docker-vm-runner](https://github.com/MuNeNICK/docker-vm-runner)** — Run QEMU/KVM virtual machines in Docker with console, SSH, and Redfish support.
+
+**[agent-workbench](https://github.com/MuNeNICK/agent-workbench)** — Agent Skill and CLI for structured long-running coding-agent work, backed by a project-local SQLite ledger.
 
 **[os-iso-catalog](https://github.com/MuNeNICK/os-iso-catalog)** — Machine-readable catalog of OS ISO images with download URLs, checksums, and EOL dates.
 
@@ -48,6 +52,10 @@ Based in Tokyo. Infrastructure, cloud, and open-source.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MuNeNICK&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+### Support
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/MuNeNICK)
 
 ### Links
 
