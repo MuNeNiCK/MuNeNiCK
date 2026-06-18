@@ -1,5 +1,10 @@
 # Hi there, I'm MuNeNiCK
 
+<p>
+  <a href="https://github.com/MuNeNiCK/MuNeNiCK"><img alt="Profile view count" src="https://komarev.com/ghpvc/?username=MuNeNiCK&style=for-the-badge&color=blueviolet"></a>
+  <a href="https://github.com/MuNeNiCK.gpg"><img alt="PGP public key" src="https://img.shields.io/badge/PGP-F8195A7A5BD1D5AF-blueviolet?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"></a>
+</p>
+
 Based in Tokyo. Infrastructure, cloud, and open-source.
 
 ### Tech Stack & Interests
