@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gitartwork.svg" alt="MuNeNiCK" />
+  <img src="gitartwork.svg?v=2" alt="MuNeNiCK" />
 </p>
 
 <p align="center">
