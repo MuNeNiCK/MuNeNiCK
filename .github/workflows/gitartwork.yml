@@ -1,0 +1,34 @@
+name: Generate GitArtWork
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - gitartwork.svg
+  schedule:
+    - cron: "17 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jasineri/gitartwork@v1
+        with:
+          user_name: MuNeNiCK
+          text: MuNeNiCK
+
+      - name: Commit generated artwork
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add gitartwork.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update GitArtWork"
+          git push
