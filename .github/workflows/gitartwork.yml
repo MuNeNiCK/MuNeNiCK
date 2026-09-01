@@ -24,6 +24,10 @@ jobs:
           user_name: MuNeNiCK
           text: MuNeNiCK
 
+      - name: Remove generator attribution
+        run: |
+          perl -0pi -e 's{<a href="https://github\.com/jasineri/gitartwork"><text\b.*?</text></a>}{}s' gitartwork.svg
+
       - name: Commit generated artwork
         run: |
           git config user.name github-actions[bot]
